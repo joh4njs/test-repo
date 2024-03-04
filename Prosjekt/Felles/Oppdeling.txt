@@ -1,0 +1,7 @@
+Lager en liste over innbyggertall de siste 10 årene
+
+Johan: Sverige
+
+Jorunn: Norge
+
+Erik: Danmark
